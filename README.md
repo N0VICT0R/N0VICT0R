@@ -35,14 +35,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,mysql,sqlite,git,github" alt="Tech Stack Icons" />
 </p>
 
----
 
-## 🔥 GitHub Activity Graph  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N0VICT0R&radius=25&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false&line=#8aed00&area_color=#8aed00" height="100" alt="activity-graph graph"  />
-</div>
-
-###
 
 ---
 
