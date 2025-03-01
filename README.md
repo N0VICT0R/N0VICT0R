@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/moaz1wahba/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:moazwahba@example.com" target="_blank">
+  <a href="mailto:mwhbh355@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
