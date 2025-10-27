@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there, I'm Moaz Wahba!</h3>
 <p align="center">
   💻 <strong>Flutter & Firebase Developer</strong> | 🎓 <strong>Software Engineer</strong> | 🚀 <strong>Creating impactful mobile apps</strong><br>
-  📱 <strong>Currently working on a transcribe video to text subtitles with whisper  Connect Me</strong>
+  📱 <strong>Currently working on a transcribe video to text subtitles with whisper flutter desktop App Connect Me</strong>
 <br clear="both">
 <div align="center">
   <a href="https://www.linkedin.com/in/moaz-wahba/" target="_blank">
